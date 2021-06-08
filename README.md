@@ -1,1 +1,1 @@
-# multiny-reactive
+# Quarkus multiny
